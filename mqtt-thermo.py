@@ -30,7 +30,7 @@ def read_temp():
         return temp_c
 
 THINGSBOARD_HOST = 'demo.thingsboard.io'
-ACCESS_TOKEN = 'xxx'
+ACCESS_TOKEN = 'xxxx'
 
 INTERVAL=5
 
